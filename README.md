@@ -1,2 +1,2 @@
 # Curso-IntroPython
-Katas resueltas por mi misma
+Katas resueltas para LaunchX
